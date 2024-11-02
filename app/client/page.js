@@ -26,7 +26,7 @@ const clients = [
 
 export default function ClientPage() {
   return (
-    <div className="p-6 bg-gray-100 dark:bg-gray-600 text-gray-800 dark:text-gray-200">
+    <div className="p-6 bg-gray-200 dark:bg-gray-600 text-gray-800 dark:text-gray-200">
       <h2 className="text-3xl font-bold mb-8 text-center">What My Clients Say</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {clients.map((client) => (

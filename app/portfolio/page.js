@@ -29,7 +29,7 @@ export default function Portfolio() {
   ];
 
   return (
-    <div className="p-8 bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen">
+    <div className="p-8 bg-gray-200 dark:bg-gray-600 text-gray-800 dark:text-gray-200 min-h-screen">
       <h1 className="text-4xl font-bold text-center mb-8">Portfolio</h1>
 
       {/* Card Grid */}

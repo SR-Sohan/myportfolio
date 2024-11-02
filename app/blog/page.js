@@ -6,7 +6,7 @@ export default function BlogPage() {
   
 
   return (
-    <div className="p-8 bg-gray-100 dark:bg-gray-600 text-gray-800 dark:text-gray-200 min-h-screen">
+    <div className="p-8 bg-gray-200 dark:bg-gray-600 text-gray-800 dark:text-gray-200 min-h-screen">
    
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold mb-2 uppercase text-gray-800">Blog</h1>
